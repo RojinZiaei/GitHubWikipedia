@@ -1,0 +1,340 @@
+,,Republican,Democrat,Independent,Other
+,,%,%,%,%
+TOTAL,,23,32,39,6
+GENDER,Men,24,26,45,5
+,Women,23,37,35,6
+RACE/ETHNICITY,"White, non-Hispanic",30,25,40,5
+,"Black, non-Hispanic",5,64,26,5
+,Hispanic,13,34,44,9
+,"Asian, non-Hispanic (English-speaking only)",11,37,46,6
+GENERATION,Millennial (ages 18-33 in 2014),18,28,48,6
+,Generation X (34-49),22,32,40,6
+,Baby-Boomer (50-68),25,34,35,5
+,Silent (69-86),33,33,29,5
+DETAILED GENERATION,Younger Millennial (18-25),18,27,50,5
+,Older Millennial (26-33),18,28,47,7
+,Younger Gen Xer (34-41),20,31,43,6
+,Older Gen Xer (42-49),23,33,37,7
+,Younger Boomer (50-58),26,32,36,6
+,Older Boomer (59-68),25,37,34,4
+,Younger Silent (69-78),32,33,30,6
+,Older Silent (79-86),35,34,27,4
+EDUCATION,College graduate+,24,34,39,4
+,   Post graduate degree,20,38,38,4
+,   College graduate,26,31,39,4
+,Some college or less,23,31,40,6
+,   Some college,25,30,40,5
+,   High school or less,22,31,40,7
+FAMILY INCOME,"$75,000+",30,29,38,3
+,"$30,000-$74,999",24,32,40,4
+,"<$30,000",17,35,42,7
+DETAILED FAMILY INCOME,"$150,000+",29,29,38,4
+,"$100,000 to $149,999",30,30,37,3
+,"$75,000 to $99,999",30,29,38,3
+,"$50,000 to $74,999",27,30,38,4
+,"$40,000 to $49,999",24,33,40,4
+,"$30,000 to $39,999",19,33,43,4
+,"<$30,000",17,35,42,7
+EMPLOYED,Yes,23,30,40,7
+,Full-time,24,30,41,6
+,Part-time,22,31,39,9
+,No,22,35,34,9
+MARITAL STATUS,Married,28,27,39,6
+,Unmarried,17,34,43,6
+DETAILED MARITAL STATUS,Married,28,27,39,6
+,Living with a partner,13,32,50,6
+,Divorced/Separated,17,37,39,7
+,Widowed,27,38,30,5
+,Never married,15,33,47,5
+PARENT OR GUARDIAN,Yes,21,30,42,7
+,No,23,31,40,6
+GENERATION BY GENDER,Millennial men,18,23,53,5
+,Millennial women,18,33,43,6
+,Gen Xer men,23,26,45,6
+,Gen Xer women,21,38,35,7
+,Boomer men,26,29,39,5
+,Boomer women,24,39,31,5
+,Silent men,35,26,35,4
+,Silent women,31,39,25,6
+EDUCATION 2-WAY BY GENDER,College grad men,25,26,45,4
+,College grad women,22,41,33,4
+,Some coll or less men,23,26,45,6
+,Some coll or less women,23,35,35,7
+EDUCATION 4-WAY BY GENDER,Post graduate men,22,29,45,4
+,Post graduate women,18,46,32,4
+,College men,27,24,45,4
+,College women,25,37,33,5
+,Some college men,26,25,45,5
+,Some college women,24,35,36,5
+,HS or less men,22,27,44,6
+,HS or less women,22,35,35,8
+MARITAL STATUS BY GENDER,Married men,28,23,43,6
+,Married women,28,31,35,6
+,Unmarried men,17,28,50,5
+,Unmarried women,17,39,38,6
+PARENT BY GENDER,Parent men,24,27,44,6
+,Parent women,19,33,40,9
+,Non-parent men,24,26,45,5
+,Non-parent women,22,36,35,6
+REGION,Northeast,20,36,38,6
+,   New England (CT ME MA NH RI VT),16,32,48,4
+,   Middle Atlantic (DE DC MD NJ NY PA),20,39,34,6
+,Midwest,24,31,40,6
+,   Great Lakes-East North (IN IL MI OH WI),23,32,39,6
+,   Midwest-West North (IA KS MN MO NE ND SD),26,28,40,6
+,South,25,30,39,5
+,   South Atlantic (FL GA NC SC VA WV),25,30,40,5
+,   South Central (AL AR KY LA MS OK TN TX),27,28,39,6
+,West,22,30,42,7
+,   Mountain (AZ CO ID NM MT UT NV WY),27,24,43,6
+,   Pacific (AK CA HI OR WA),19,33,41,7
+COMMUNITY TYPE,Urban,18,38,39,6
+,Suburban,25,29,40,5
+,Rural,29,26,39,6
+RELIGIOUS TRADITION,White Non-Hisp Evangelical Protestant,46,14,34,5
+,White Non-Hisp Mainline Protestant,30,26,38,6
+,Black Protestant,5,68,22,4
+,Total Catholic,24,33,37,6
+,   White Non-Hispanic Catholic,31,30,36,3
+,   Hispanic Catholic,12,38,41,9
+,Mormon,49,12,35,3
+,Jewish,16,47,33,4
+,Total Unaffiliated,10,34,50,6
+,   Atheist,6,42,47,5
+,   Agnostic,8,39,49,4
+,   Nothing in particular,12,31,52,6
+RELIGIOUS TRADITION BY GENERATION,White NH Evangelical Protestant Millennial,44,9,44,4
+,White NH Evangelical Protestant Xer,46,12,36,5
+,White NH Evangelical Protestant Boomer,45,16,34,5
+,White NH Evangelical Protestant Silent,51,18,26,5
+,White NH Mainline Protestant Millennial,29,22,44,6
+,White NH Mainline Protestant Xer,28,27,38,7
+,White NH Mainline Protestant Boomer,29,27,38,5
+,White NH Mainline Protestant Silent,33,30,32,5
+,Total Catholic Millennial,20,28,45,7
+,Total Catholic Xer,22,32,39,7
+,Total Catholic Boomer,26,37,33,4
+,Total Catholic Silent,27,38,30,4
+,White NH Catholic Millennial,32,24,42,2
+,White NH Catholic Xer,33,27,35,4
+,White NH Catholic Boomer,30,32,35,3
+,White NH Catholic Silent,30,33,34,4
+,Hispanic Catholic Millennial,12,30,48,10
+,Hispanic Catholic Xer,10,38,43,9
+,Hispanic Catholic Boomer,15,46,32,8
+,Total Unaffiliated Millennial,9,30,56,6
+,Total Unaffiliated Xer,11,35,49,5
+,Total Unaffiliated Boomer,12,36,46,6
+,Total Unaffiliated Silent,14,45,36,5
+,,,,,
+"AMONG WHITE, NON-HISPANICS",,,,,
+ALL WHITE NON-HISPANIC,,30,25,40,5
+GENDER,White NH Men,31,20,45,4
+,White NH Women,29,30,35,5
+GENERATION,White NH Millennial (ages 18-33 in 2014),25,22,49,4
+,White NH Generation X (34-49),30,25,40,5
+,White NH Baby-Boomer (50-68),30,27,38,5
+,White NH Silent (69-86),37,27,31,5
+DETAILED GENERATION,White NH Younger Millennial (18-25),24,21,51,4
+,White NH Older Millennial (26-33),25,22,48,5
+,White NH Younger Gen Xer (34-41),29,24,42,5
+,White NH Older Gen Xer (42-49),31,25,39,5
+,White NH Younger Boomer (50-58),31,26,38,6
+,White NH Older Boomer (59-68),30,29,38,4
+,White NH Younger Silent (69-78),36,27,32,5
+,White NH Older Silent (79-86),39,28,29,4
+EDUCATION,White NH College graduate+,28,30,38,3
+,   White NH Post graduate degree,23,37,37,3
+,   White NH College graduate,31,26,39,4
+,White NH Some college or less,31,23,41,5
+,   White NH Some college,32,22,42,5
+,   White NH High school or less,30,24,40,6
+FAMILY INCOME,"White NH $75,000+",34,26,38,3
+,"White NH $30,000-$74,999",30,25,41,4
+,"White NH <$30,000",24,27,43,6
+DETAILED FAMILY INCOME,"White NH $150,000+",34,26,38,3
+,"White NH $100,000 to $149,999",34,26,37,3
+,"White NH $75,000 to $99,999",34,25,38,3
+,"White NH $50,000 to $74,999",33,24,39,4
+,"White NH $40,000 to $49,999",30,26,41,3
+,"White NH $30,000 to $39,999",27,26,44,3
+,"White NH <$30,000",24,27,43,6
+EMPLOYED,White NH Yes,29,24,41,5
+,   White NH Full-time,30,23,41,5
+,   White NH Part-time,27,26,42,6
+,White NH No,29,26,37,8
+MARITAL STATUS,White NH Married,34,22,40,5
+,White NH Unmarried,23,27,45,5
+DETAILED MARITAL STATUS,White NH Married,34,22,40,5
+,White NH Living with a partner,16,26,54,4
+,White NH Divorced/Separated,23,30,41,6
+,White NH Widowed,31,32,32,5
+,White NH Never married,22,25,49,5
+PARENT OR GUARDIAN,White NH Yes,29,23,43,5
+,White NH No,29,25,41,5
+GENERATION BY GENDER,White NH Millennial men,25,17,55,4
+,White NH Millennial women,25,27,43,5
+,White NH Gen Xer men,31,19,45,5
+,White NH Gen Xer women,29,30,35,5
+,White NH Boomer men,32,23,41,5
+,White NH Boomer women,29,32,34,5
+,White NH Silent men,39,20,37,4
+,White NH Silent women,36,33,26,6
+EDUCATION 2-WAY BY GENDER,White NH College grad men,29,24,44,3
+,White NH College grad women,27,36,33,3
+,White NH Some coll or less men,31,19,45,5
+,White NH Some coll or less women,30,27,36,6
+EDUCATION 4-WAY BY GENDER,White NH Post graduate men,25,29,43,3
+,White NH Post graduate women,21,45,32,2
+,White NH College men,32,21,44,4
+,White NH College women,31,31,34,4
+,White NH Some college men,32,17,45,5
+,White NH Some college women,31,26,38,5
+,White NH HS or less men,30,20,45,5
+,White NH HS or less women,29,29,34,7
+MARITAL STATUS BY GENDER,White NH Married men,34,19,43,5
+,White NH Married women,34,26,36,4
+,White NH Unmarried men,23,21,52,5
+,White NH Unmarried women,23,33,39,6
+PARENT BY GENDER,White NH Parent men,33,18,45,4
+,White NH Parent women,26,26,42,6
+,White NH Non-parent men,29,21,45,5
+,White NH Non-parent women,28,30,37,5
+REGION,White NH Northeast,25,31,39,4
+,   White NH New England (CT ME MA NH RI VT),19,29,50,3
+,   White NH Middle Atlantic (DE DC MD NJ NY PA),27,33,35,5
+,White NH Midwest,28,26,40,5
+,   White NH Great Lakes-East North (IN IL MI OH WI),28,27,40,5
+,   White NH Midwest-West North (IA KS MN MO NE ND SD),30,25,41,5
+,White NH South,35,21,39,5
+,   White NH South Atlantic (FL GA NC SC VA WV),33,21,41,5
+,   White NH South Central (AL AR KY LA MS OK TN TX),38,20,38,5
+,White NH West,29,25,41,5
+,   White NH Mountain (AZ CO ID NM MT UT NV WY),34,19,44,4
+,   White NH Pacific (AK CA HI OR WA),25,29,40,6
+COMMUNITY TYPE,White NH Urban,25,30,41,4
+,White NH Suburban,31,24,40,5
+,White NH Rural,34,22,39,6
+RELIGIOUS TRADITION,White NH Evangelical Protestant,46,14,34,5
+,White NH Mainline Protestant,30,26,38,6
+,White NH Catholic,31,30,36,3
+,White NH Mormon,55,10,33,2
+,White NH Jewish,16,47,33,4
+,White NH Total Unaffiliated,12,32,51,5
+,   White NH Atheist,6,43,48,3
+,   White NH Agnostic,10,37,49,4
+,   White NH Nothing in particular,14,28,52,5
+,,,,,
+"AMONG BLACK, NON-HISPANICS",,,,,
+ALL BLACK NON-HISPANIC,,5,64,26,5
+GENDER,Black NH Men,5,59,32,4
+,Black NH Women,5,69,21,5
+GENERATION,Black NH Millennial (ages 18-33 in 2014),4,53,37,6
+,Black NH Generation X (34-49),5,64,26,5
+,Black NH Baby-Boomer (50-68),6,73,18,3
+,Black NH Silent (69-86),3,78,14,4
+DETAILED GENERATION,Black NH Younger Millennial (18-25),6,51,38,5
+,Black NH Older Millennial (26-33),3,54,36,7
+,Black NH Younger Gen Xer (34-41),6,58,33,4
+,Black NH Older Gen Xer (42-49),4,70,20,6
+,Black NH Younger Boomer (50-58),8,67,22,3
+,Black NH Older Boomer (59-68),3,81,13,2
+EDUCATION,Black NH College graduate+,4,64,26,6
+,   Black NH Post graduate degree,3,62,29,6
+,   Black NH College graduate,5,64,25,6
+,Black NH Some college or less,5,65,26,4
+,   Black NH Some college,4,69,23,5
+,   Black NH High school or less,6,62,28,4
+FAMILY INCOME,"Black NH $75,000+",7,63,27,3
+,"Black NH $30,000-$74,999",4,66,26,3
+,"Black NH <$30,000",5,65,26,4
+DETAILED FAMILY INCOME,"Black NH $150,000+",7,61,28,4
+,"Black NH $100,000 to $149,999",6,60,29,5
+,"Black NH $75,000 to $99,999",7,66,26,2
+,"Black NH $50,000 to $74,999",3,70,23,4
+,"Black NH $40,000 to $49,999",4,65,31,1
+,"Black NH $30,000 to $39,999",5,64,25,5
+,"Black NH <$30,000",5,65,26,4
+EMPLOYMENT,Black NH Yes,6,60,27,7
+,Black NH No,3,76,15,7
+MARITAL STATUS,Black NH Married,7,67,21,5
+,Black NH Unmarried,3,62,31,4
+PARENT OR GUARDIAN,Black NH Yes,5,60,30,4
+,Black NH No,4,63,28,6
+GENERATION BY GENDER,Black NH Millennial men,4,46,46,5
+,Black NH Millennial women,5,57,31,6
+,Black NH Gen Xer men,6,57,34,3
+,Black NH Gen Xer women,3,70,20,7
+,Black NH Boomer men,6,69,23,3
+,Black NH Boomer women,6,77,14,3
+,Black NH Silent men,5,73,17,4
+,Black NH Silent women,2,81,12,5
+MARITAL STATUS BY GENDER,Black NH Married men,10,64,22,4
+,Black NH Married women,3,70,20,7
+,Black NH Unmarried men,3,56,38,3
+,Black NH Unmarried women,4,66,25,5
+REGION,Black NH Northeast,5,67,25,4
+,Black NH Midwest,3,63,28,7
+,Black NH South,6,66,25,4
+,Black NH West,6,56,30,8
+COMMUNITY TYPE,Black NH Urban,3,64,27,5
+,Black NH Suburban,6,64,26,4
+,Black NH Rural,9,68,20,3
+RELIGIOUS TRADITION,Black NH Protestant,5,68,22,4
+,Black NH Total Unaffiliated,5,51,41,4
+,   Black NH Nothing in particular,5,50,41,3
+,,,,,
+AMONG HISPANICS,,,,,
+ALL HISPANIC,,13,34,44,9
+GENDER,Hispanic Men,14,31,47,8
+,Hispanic Women,12,37,40,11
+GENERATION,Hispanic Millennial (ages 18-33 in 2014),12,29,51,8
+,Hispanic Generation X (34-49),11,34,45,10
+,Hispanic Baby-Boomer (50-68),15,42,33,11
+,Hispanic Silent (69-86),23,48,24,6
+DETAILED GENERATION,Hispanic Younger Millennial (18-25),13,29,52,6
+,Hispanic Older Millennial (26-33),11,28,50,11
+,Hispanic Younger Gen Xer (34-41),10,31,49,10
+,Hispanic Older Gen Xer (42-49),11,39,39,10
+,Hispanic Younger Boomer (50-58),17,35,37,12
+,Hispanic Older Boomer (59-68),13,52,26,9
+EDUCATION,Hispanic College graduate+,16,40,40,5
+,   Hispanic Post graduate degree,15,35,44,5
+,   Hispanic College graduate,16,41,38,5
+,Hispanic Some college or less,13,33,44,10
+,   Hispanic Some college,15,38,43,5
+,   Hispanic High school or less,12,31,45,12
+FAMILY INCOME,"Hispanic $75,000+",21,38,36,4
+,"Hispanic $30,000-$74,999",13,40,42,6
+,"Hispanic <$30,000",11,32,47,10
+MARITAL STATUS,Hispanic Married,14,35,39,12
+,Hispanic Unmarried,11,33,48,8
+GENERATION BY GENDER,Hispanic Millennial men,13,28,52,8
+,Hispanic Millennial women,12,30,50,9
+,Hispanic Gen Xer men,11,31,50,8
+,Hispanic Gen Xer women,10,38,39,13
+,Hispanic Boomer men,15,37,40,9
+,Hispanic Boomer women,15,47,25,12
+NATIVE/FOREIGN BORN,Hispanic Native born,16,38,40,6
+,Hispanic Foreign born,10,30,47,13
+COMMUNITY TYPE,Hispanic Urban,12,38,41,9
+,Hispanic Suburban,14,32,45,8
+,Hispanic Rural,14,25,47,14
+RELIGIOUS TRADITION,Hispanic Catholic,12,38,41,9
+,Hispanic Total Unaffiliated,8,34,50,8
+,   Hispanic Nothing in particular,8,31,51,10
+,,,,,
+"AMONG ASIAN, NON-HISPANICS",,,,,
+ALL ASIAN NON-HISPANIC (English-speaking only),,11,37,46,6
+GENDER,Asian NH Men,13,31,50,6
+,Asian NH Women,9,45,40,6
+GENERATION,Asian NH Millennial (ages 18-33 in 2014),8,36,49,6
+,Asian NH Generation X (34-49),10,40,46,4
+,Asian NH Baby-Boomer (50-68),19,35,41,5
+EDUCATION,Asian NH College graduate+,8,37,48,6
+,Asian NH Some college or less,15,37,43,5
+FAMILY INCOME,"Asian NH $75,000+",9,39,47,5
+,"Asian NH $30,000-$74,999",18,38,40,4
+,"Asian NH <$30,000",9,34,51,6
+,,,,,
+Source: Pew Research Center 2014 surveys,,,,,
