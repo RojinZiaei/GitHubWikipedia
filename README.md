@@ -30,10 +30,7 @@ Republican democrat_graph.py was updated to be compatible with the new database 
 
  The dataset is then plotted using seaborn and matplotlib to visualize the pattern of Wikipedia edits over time.
 
-# Results
- The resulting Excel file contains two columns: "Time_Stamp" and "Number of Edits". The "Time_Stamp" column contains a complete range of timestamps from the earliest to latest edit, with a frequency of 1 day. The "Number of Edits" column contains the number of edits made on each day.
+# Results updated
+The results are 2 graphs, one with the entirety of congress and whole wikipedia edits and the other is republican vs democrat edits.
 
-# update
-The result is 2 graphs, one with the entirety of congress and whole wikipedia edits and the other is republican vs democrat edits.
-
-The resulting time series plot shows a seasonal pattern, with higher edit frequencies in certain months. Further analysis using time series models can be done to identify the underlying pattern and make predictions on future edit frequencies.
+The resulting time series plots shows the frequency of edits on daily basis.
