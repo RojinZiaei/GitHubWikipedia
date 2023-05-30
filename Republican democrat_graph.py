@@ -81,7 +81,8 @@ congress_election_years = [
     '2014-11-01',
     '2016-11-01',
     '2018-11-01',
-    '2020-11-01'
+    '2020-11-01',
+    '2022-11-01',
 ]
 congress_election_years = [pd.to_datetime(year).year for year in congress_election_years]
 congress_election_years = [pd.Timestamp(year=year, month=11, day=1) for year in congress_election_years]
