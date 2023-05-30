@@ -14,14 +14,8 @@ Republican democrat_graph.py was updated to be compatible with the new database 
 . calendar <br> . pandas <br> . datetime <br> . math <br> . numpy <br> . sm <br> . seasonal <br> . matplotlib <br> . json <br> . os <br> . collections <br> . random <br> . seaborn <br> . warnings
 
 # Usage
-
- The dataset used in this project can be found in the "Data" folder. <br> To run the code, simply execute the following command:
- python "SaveTheFullCongress.py"
- The output will be saved as an Excel file named "TheWholeThing1.xlsx".
- Given the size of the congress files and depending on your processing power running this code might take a while.
- 
- To use the "detrend Using wikipedia1-moving average-SignificantEvents-Daily.py" code, simply run the Python file in a Python environment. The code will produce a plot that shows the ratio of edits made on Congressmen's pages to total user activity over time.
-
+ We used the JSON wikipedia data to produce wikipedia_data_extended(1).csv
+ and then used the csv file to process the data about edits and congressmen and women to produce 2 graphs.
 
 
 # Methodology
